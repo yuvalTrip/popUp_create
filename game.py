@@ -21,7 +21,7 @@ def start_game(num_people, angle_sun,recognize_points,decrease_points,totaltime)
 
  # Convert dictionary to JSON string
     game_data_json = json.dumps(game_data)
-    print(game_data_json)
+    #print(game_data_json)
 
 # # Pass JSON string to the game class or function
 #     game.start_game(game_data_json)
